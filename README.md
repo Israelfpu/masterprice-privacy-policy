@@ -44,7 +44,7 @@
   <p>Esta política pode ser atualizada periodicamente.</p>
 
   <h2>8. Contato</h2>
-  <p>Email: <strong>SEU_EMAIL_AQUI</strong></p>
+  <p>Email: <strong>masterprice.smartmarket@gmail.com</strong></p>
 
   <p><em>Última atualização: 2025</em></p>
 </body>
